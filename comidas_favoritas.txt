@@ -1,0 +1,11 @@
+Mis comidas favoritas son:
+*Mole
+*Nachos
+*Pozole
+*Gorditas
+*Flautas
+*Cazuela
+*Sopes
+*Sopa Azteca
+*Carne asada
+
