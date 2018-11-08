@@ -1,6 +1,6 @@
-Nombre: 		Luis E. Jiménez
-Edad: 			23
-Nacionalidad: 		mexicano
-Originario de: 		Tijuana, Baja California
-Estudios:		Ing. en Computación
-Profesión:		Lead Project Manager
+Nombre: 		Guadalupe Magaly Peña Gil
+Edad: 			19
+Nacionalidad: 		Mxicana
+Originario de: 		Los Mochis, Sinaloa
+Estudios:		Inngeniería Informática.
+Profesión:		Project manager
